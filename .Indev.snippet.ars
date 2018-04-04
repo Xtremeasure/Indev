@@ -1,0 +1,8 @@
+.Indev={init}
+{m?Indev:{/rawid}--movement-down} :=true
+{m?Indev:{/rawid}--movement-up} :=true
+{m?Indev:{/rawid}--movement-north} :=true
+{m?Indev:{/rawid}--movement-south} :=true
+{m?Indev:{/rawid}--movement-east} :=true
+{m?Indev:{/rawid}--movement-west} :=true
+{m?Indev:{/rawid}--location} :=0,1,1
